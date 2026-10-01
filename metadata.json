@@ -1,0 +1,9 @@
+{
+  "name": "Saheli - Voice-First Maternity Benefit Companion",
+  "description": "A voice-first companion helping women with zero digital background access PMMVY maternity benefits in their mother tongue with no typing or login.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
